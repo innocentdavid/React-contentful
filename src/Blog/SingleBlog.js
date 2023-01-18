@@ -61,7 +61,7 @@ const SingleBlog = () => {
           <div className="footer">
             <div className="pure-menu pure-menu-horizontal">
               <div className="pure-menu-item">
-                <a href="http://twitter.com/thecodeangle" className="pure-menu-link">Twitter</a>
+                <a href="https://twitter.com/paulinnocent04" className="pure-menu-link">Twitter</a>
               </div>
             </div>
           </div>
